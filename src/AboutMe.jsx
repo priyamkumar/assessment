@@ -8,11 +8,11 @@ export default function AboutMe() {
         <p>Frontend Development: React.js, Redux, React Hooks, Bootstrap.</p>
         <p>
           {" "}
-          Database Management MongoDB, Mongoose Additional Skills RESTful APIs,
+          Database Management: MongoDB, Mongoose Additional Skills RESTful APIs,
           Responsive Design, Postman (API Testing)
         </p>{" "}
-        <p>Backend Development Node.js, Express.js, JWT Authentication</p>{" "}
-        <p>Version Control Git, GitHub, Netlify, Vercel, Railway</p>
+        <p>Backend Development: Node.js, Express.js, JWT Authentication</p>{" "}
+        <p>Version Control: Git, GitHub, Netlify, Vercel, Railway</p>
       </div>
       <div>
         <h2>Hobbies and Interests</h2>
